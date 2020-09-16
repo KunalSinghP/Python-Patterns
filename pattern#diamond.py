@@ -1,3 +1,14 @@
+"""
+No. of rows 	:4
+   * 
+  * * 
+ * * * 
+* * * * 
+ * * * 
+  * * 
+   * 
+   """
+
 n=int(input("No. of rows \t:"))
 f=1
 for i in range(n):
